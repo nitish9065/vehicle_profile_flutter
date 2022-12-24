@@ -36,3 +36,22 @@ Users will first input the vehicle registration number (MH14AB1234). Then the us
 
 
 After selecting the transmission, a vehicle profile will be created and saved locally. The profile will be shown in the Vehicle List screen. Once the item in the vehicle list screen is clicked, it will launch a Vehicle Profile screen where the vehicle information will be displayed in detail.
+
+App Feature :
+Included Hive Database to store the fetched api data so that i could be used to show dat even in the case of internet failure.
+Provider as State Management
+
+The app has following screens:
+
+1. Vehicle number input
+2. Vehicle class selection(Car / Bike)
+3. Vehicle make selection
+4. Vehicle model selection
+5. Vehicle fuel-type selection
+6. Vehicle transmission selection
+7. Vehicle list
+8. Vehicle profile
+
+
+
+
