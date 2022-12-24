@@ -15,12 +15,4 @@ For help getting started with Flutter development, view the
 [online documentation](https://docs.flutter.dev/), which offers tutorials,
 samples, guidance on mobile development, and a full API reference.
 
-The app has following screens:
-Vehicle number input
-Vehicle class selection(Car / Bike)
-Vehicle make selection
-Vehicle model selection
-Vehicle fuel-type selection
-Vehicle transmission selection
-Vehicle list
-Vehicle profile
+
