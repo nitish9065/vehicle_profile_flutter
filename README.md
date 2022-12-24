@@ -2,6 +2,13 @@
 
 A new Flutter project.
 
+#Demo1
+    When the User Firts Enters the app
+  
+https://user-images.githubusercontent.com/97245296/209430149-1a410cc7-b4cb-47a3-9bd8-fac01304878b.mp4
+
+#Demo2
+https://user-images.githubusercontent.com/97245296/209430286-f54dff76-34da-470e-b864-5e3f2e8a360b.mp4
 ## Getting Started
 
 This project is a starting point for a Flutter application.
